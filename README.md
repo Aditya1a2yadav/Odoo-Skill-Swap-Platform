@@ -1,5 +1,13 @@
-# Firebase Studio
+# Odoo Hackthon
 
-This is a NextJS starter in Firebase Studio.
+## Team: Team 3383
 
-To get started, take a look at src/app/page.tsx.
+## PS: Skill Swap Platform
+
+### Members:-
+
+  - Aditya Kumar Yadav (Team Leader)
+  
+  - Abhay Gupta
+  
+  - Aditya Boudh
